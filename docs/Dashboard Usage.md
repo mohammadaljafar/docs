@@ -29,3 +29,36 @@ Once you press the `Authorize` button, you should now see something like this:
 :::tip
 You can reorder the songs in queue by dragging them!
 :::
+
+in arabic
+-
+المعرّف: "dashboard_usage"
+العنوان: كيف تستخدم لوحة القيادة؟
+sidebar_label: الاستخدام
+-
+
+للبدء ، [انقر هنا] (https://rythmbot.co/app/r1) للوصول إلى لوحة التحكم.
+
+### عملية التفويض
+سيطلب منك التطبيق التفويض باستخدام Rythm إذا كنت تستخدم لوحة القيادة لأول مرة. هذا للتحقق مما إذا كان لديك أذونات صحيحة للوصول إلى جوانب مختلفة من لوحة المعلومات.
+
+! [تفويض حساب Discord] (/ img / docs / dashboard / db-authorize.png)
+
+بمجرد الضغط على زر "التفويض" ، يجب أن ترى الآن شيئًا كهذا:
+
+! [Dashboard Start] (/ img / docs / dashboard / db-start.png)
+
+### الاستخدام الأساسي
+1. انضم إلى قناة صوتية.
+
+2. ابحث عن أغنيتك عن طريق كتابة اسم الأغنية في شريط البحث ، واضغط على "Enter" ثم اختر الأغنية المفضلة لديك!
+
+! [أغنية تشغيل لوحة التحكم] (/ img / docs / dashboard / db-play-song.gif)
+
+3. يمكنك أيضًا استخدام رابط أغنية أو حتى عنوان url لقائمة التشغيل.
+
+! [عنوان URL لأغنية البحث في لوحة التحكم] (/ img / docs / dashboard / db-song-url.png)
+
+:::تلميح
+يمكنك إعادة ترتيب الأغاني في قائمة الانتظار عن طريق سحبها!
+:::
